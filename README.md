@@ -1,7 +1,7 @@
 # Data-Analysis-on-Google-PlayStore
 A project where data analysis is done on Google PlayStore dataset
 
-This project analyzes the Google Play Store dataset to uncover insights about app categories, ratings, reviews, and installations. The dataset provides a snapshot of various apps and their performance metrics, enabling exploratory data analysis and visualization.
+This project analyzes the Google Play Store dataset to uncover insights about app categories, ratings, reviews, and installations. The dataset provides a snapshot of various apps and their performance metrics, enabling exploratory data analysis and Univariate Analysis.
 
 Features:
 
